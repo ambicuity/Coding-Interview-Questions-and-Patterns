@@ -8,16 +8,16 @@ Welcome to the most comprehensive coding interview preparation repository! This 
 
 ## What Makes This Repository Special
 
-- 📚 **Comprehensive Coverage**: 19 major topics with over 100 coding problems
-- 🎯 **Multiple Skill Levels**: Detailed explanations suitable for beginners to advanced
-- 💻 **Working Code**: All examples are tested and ready to download and run
-- 🧠 **Interview Tips**: Strategic insights and tips for technical interviews
-- 🔄 **Multiple Approaches**: Different solution methods with complexity analysis
-- 🌐 **Multi-Language Support**: Code examples in Python, Java, and JavaScript
+- **Comprehensive Coverage**: 19 major topics with over 100 coding problems
+- **Multiple Skill Levels**: Detailed explanations suitable for beginners to advanced
+- **Working Code**: All examples are tested and ready to download and run
+- **Interview Tips**: Strategic insights and tips for technical interviews
+- **Multiple Approaches**: Different solution methods with complexity analysis
+- **Multi-Language Support**: Code examples in Python, Java, and JavaScript
 
 ## Topics Covered
 
-### 📍 01. Two Pointers
+### 01. Two Pointers
 - Introduction to Two Pointers
 - Pair Sum - Sorted
 - Triplet Sum
@@ -26,7 +26,7 @@ Welcome to the most comprehensive coding interview preparation repository! This 
 - Shift Zeros to the End
 - Next Lexicographical Sequence
 
-### 📦 02. Hash Maps and Sets
+### 02. Hash Maps and Sets
 - Introduction to Hash Maps and Sets
 - Pair Sum - Unsorted
 - Verify Sudoku Board
@@ -34,7 +34,7 @@ Welcome to the most comprehensive coding interview preparation repository! This 
 - Longest Chain of Consecutive Numbers
 - Geometric Sequence Triplets
 
-### 🔗 03. Linked Lists
+### 03. Linked Lists
 - Introduction to Linked Lists
 - Linked List Reversal
 - Remove the Kth Last Node From a Linked List
@@ -43,19 +43,19 @@ Welcome to the most comprehensive coding interview preparation repository! This 
 - Palindromic Linked List
 - Flatten a Multi-Level Linked List
 
-### 🐢🐇 04. Fast and Slow Pointers
+### 04. Fast and Slow Pointers
 - Introduction to Fast and Slow Pointers
 - Linked List Loop
 - Linked List Midpoint
 - Happy Number
 
-### 🪟 05. Sliding Windows
+### 05. Sliding Windows
 - Introduction to Sliding Windows
 - Substring Anagrams
 - Longest Substring With Unique Characters
 - Longest Uniform Substring After Replacements
 
-### 🔍 06. Binary Search
+### 06. Binary Search
 - Introduction to Binary Search
 - Find the Insertion Index
 - First and Last Occurrences of a Number
@@ -66,7 +66,7 @@ Welcome to the most comprehensive coding interview preparation repository! This 
 - Local Maxima in Array
 - Weighted Random Selection
 
-### 📚 07. Stacks
+### 07. Stacks
 - Introduction to Stacks
 - Valid Parenthesis Expression
 - Next Largest Number to the Right
@@ -75,26 +75,26 @@ Welcome to the most comprehensive coding interview preparation repository! This 
 - Implement a Queue using Stacks
 - Maximums of Sliding Window
 
-### 🏔️ 08. Heaps
+### 08. Heaps
 - Introduction to Heaps
 - K Most Frequent Strings
 - Combine Sorted Linked Lists
 - Median of an Integer Stream
 - Sort a K-Sorted Array
 
-### ⏰ 09. Intervals
+### 09. Intervals
 - Introduction to Intervals
 - Merge Overlapping Intervals
 - Identify All Interval Overlaps
 - Largest Overlap of Intervals
 
-### ➕ 10. Prefix Sums
+### 10. Prefix Sums
 - Introduction to Prefix Sums
 - Sum Between Range
 - K-Sum Subarrays
 - Product Array Without Current Element
 
-### 🌳 11. Trees
+### 11. Trees
 - Introduction to Trees
 - Invert Binary Tree
 - Balanced Binary Tree Validation
@@ -109,13 +109,13 @@ Welcome to the most comprehensive coding interview preparation repository! This 
 - Kth Smallest Number in a Binary Search Tree
 - Serialize and Deserialize a Binary Tree
 
-### 🔤 12. Tries
+### 12. Tries
 - Introduction to Tries
 - Design a Trie
 - Insert and Search Words with Wildcards
 - Find All Words on a Board
 
-### 🕸️ 13. Graphs
+### 13. Graphs
 - Introduction to Graphs
 - Graph Deep Copy
 - Count Islands
@@ -128,7 +128,7 @@ Welcome to the most comprehensive coding interview preparation repository! This 
 - Shortest Path
 - Connect the Dots
 
-### 🔄 14. Backtracking
+### 14. Backtracking
 - Introduction to Backtracking
 - Find All Permutations
 - Find All Subsets
@@ -136,7 +136,7 @@ Welcome to the most comprehensive coding interview preparation repository! This 
 - Combinations of a Sum
 - Phone Keypad Combinations
 
-### 💡 15. Dynamic Programming
+### 15. Dynamic Programming
 - Introduction to Dynamic Programming
 - Climbing Stairs
 - Minimum Coin Combination
@@ -148,26 +148,26 @@ Welcome to the most comprehensive coding interview preparation repository! This 
 - 0/1 Knapsack
 - Largest Square in a Matrix
 
-### 🎯 16. Greedy
+### 16. Greedy
 - Introduction to Greedy Algorithms
 - Jump to the End
 - Gas Stations
 - Candies
 
-### 🔢 17. Sort and Search
+### 17. Sort and Search
 - Introduction to Sort and Search
 - Sort Linked List
 - Sort Array
 - Kth Largest Integer
 - Dutch National Flag
 
-### 🔢 18. Bit Manipulation
+### 18. Bit Manipulation
 - Introduction to Bit Manipulation
 - Hamming Weights of Integers
 - Lonely Integer
 - Swap Odd and Even Bits
 
-### 📐 19. Math and Geometry
+### 19. Math and Geometry
 - Introduction to Math and Geometry
 - Spiral Traversal
 - Reverse 32-Bit Integer
@@ -192,4 +192,4 @@ This repository is authored and maintained by Ritesh Rana. If you find any issue
 This repository is created for educational purposes. All content is authored by Ritesh Rana.
 
 ---
-*Happy Coding and Good Luck with Your Interviews!* 🚀
+*Happy Coding and Good Luck with Your Interviews!*
