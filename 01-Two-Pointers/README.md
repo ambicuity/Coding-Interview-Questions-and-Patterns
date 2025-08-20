@@ -44,10 +44,10 @@ Two pointers often reduce time complexity from O(n²) to O(n) by eliminating the
 
 ## Problems Covered
 
-1. [Pair Sum - Sorted](./pair-sum-sorted.md)
+1. [Pair Sum - Sorted](./pair-sum-sorted.md) ⭐ (Foundation Problem)
 2. [Triplet Sum](./triplet-sum.md) ⭐ (Detailed Example)
-3. [Is Palindrome Valid](./is-palindrome-valid.md)
-4. [Largest Container](./largest-container.md)
+3. [Valid Palindrome](./valid-palindrome.md) ⭐ (Complete Implementation)
+4. [Container With Most Water](./container-with-most-water.md) ⭐ (Complete Implementation)
 5. [Shift Zeros to the End](./shift-zeros-to-end.md)
 6. [Next Lexicographical Sequence](./next-lexicographical-sequence.md)
 
